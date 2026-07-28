@@ -1,0 +1,21 @@
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@600,700&f[]=general-sans@400,500,700&display=swap');
+:root{
+--font-display:'Clash Display',sans-serif;
+--font-body:'General Sans',sans-serif;
+--weight-display-medium:600;
+--weight-display-bold:700;
+--weight-body-regular:400;
+--weight-body-medium:500;
+--weight-body-bold:700;
+--text-hero:clamp(32px,7vw,58px);
+--text-h1:clamp(28px,5vw,38px);
+--text-h2:32px;
+--text-h2-fluid:clamp(26px,4.5vw,32px);
+--text-card-title:clamp(20px,2.6vw,25px);
+--text-body:16px;
+--text-body-sm:15px;
+--text-label:14px;
+--text-caption:13px;
+--leading-tight:1.05;
+--leading-body:1.6;
+}

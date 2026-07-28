@@ -1,0 +1,24 @@
+:root{
+--space-1:4px;
+--space-2:8px;
+--space-3:12px;
+--space-4:14px;
+--space-5:16px;
+--space-6:20px;
+--space-7:24px;
+--space-8:26px;
+--space-9:32px;
+--space-10:36px;
+--space-11:40px;
+--space-12:48px;
+--space-13:52px;
+--space-14:56px;
+--radius-sm:10px;
+--radius-md:12px;
+--radius-lg:20px;
+--radius-xl:24px;
+--radius-pill:999px;
+--radius-circle:50%;
+--border-width-strong:3px;
+--shadow-sticker:0 6px 10px rgba(0,0,0,0.2);
+}

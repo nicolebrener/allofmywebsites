@@ -1,0 +1,5 @@
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--surface-page);font-family:var(--font-body);color:var(--text-primary)}
+a{color:var(--link-color);text-decoration:none}
+a:hover{color:var(--link-hover)}
+@keyframes marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
